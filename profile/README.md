@@ -56,4 +56,4 @@ my_package = "1.0.0"
 ## Clients
 
 - ### [client](https://github.com/godot-package-manager/client#installation): Rust client
-- ### [godot-plugin](https://github.com/godot-package-manager/godot-plugin#installation): Godot plugin for downloading packages in the editor (does not support yaml and toml)
+- ### [godot-plugin](https://github.com/godot-package-manager/godot-plugin#installation): Godot plugin for downloading packages in the editor (does not support yaml and toml, only pure json)
