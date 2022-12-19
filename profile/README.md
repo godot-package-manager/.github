@@ -9,7 +9,7 @@ managed?
 1. Find some [Godot packages on NPM](https://www.npmjs.com/search?q=keywords:godot-engine)
 2. Add them to the `godot.package` file [(See the `godot.package` section)](#godotpackage)
 3. Install your [client](#clients) of choice
-3. Run your clients update function
+4. Run your client's update function
 
 ## `godot.package`
 
