@@ -25,7 +25,7 @@ This file can be in different markup languages:
 {
   // comments are supported
   "packages": {
-    "package": "1.0.0", // as are trailing commas
+    "my_package": "1.0.0", // as are trailing commas
   }
 }
 ```
