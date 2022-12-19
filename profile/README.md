@@ -26,7 +26,8 @@ This file can be in different markup languages:
   // comments are supported
   // quotes arent needed for keys
   packages: {
-    my_package: "1.0.0", // trailing commas are also fine
+    // or for strings
+    my_package: 1.0.0, // trailing commas are also fine
   }
 }
 ```
@@ -49,7 +50,7 @@ packages:
 my_package = "1.0.0"
 ```
 
-</details
+</details>
 
 ---
 
