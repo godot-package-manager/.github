@@ -45,7 +45,7 @@ packages:
 
 ```toml
 [packages]
-package = "1.0.0"
+my_package = "1.0.0"
 ```
 
 </details
