@@ -24,8 +24,9 @@ This file can be in different markup languages:
 ```jsonc
 {
   // comments are supported
-  "packages": {
-    "my_package": "1.0.0", // as are trailing commas
+  // quotes arent needed for keys
+  packages: {
+    my_package: "1.0.0", // trailing commas are also fine
   }
 }
 ```
