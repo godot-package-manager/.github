@@ -19,8 +19,9 @@ by the user.
 This file can be in different markup languages:
 
 <details open>
-<summary><b>JSON</b></summary>
+<summary><b>HJSON</b></summary>
 
+<!-- this says jsonc because highlight.js doesnt have hjson. -->
 ```jsonc
 {
   // comments are supported
