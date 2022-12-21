@@ -11,6 +11,14 @@
 3. Install your [client](#clients) of choice
 4. Run your client's update function
 
+## Publishing Packages Quickstart
+
+1. Download the [npm cli tool](https://github.com/npm/cli) <!-- can use the rust cli for this? --> 
+2. Copy your `README.md` and `LICENSE` files into the addon folder (if you don't have these, you should create them)
+3. In your addon folder, run `npm init` (e.g. given `addons/my_plugin/`, run these commands in the `my_plugin` folder)
+4. Answer the prompts given by `npm`
+5. Run `npm publish --access public` to publish your package. [See the npm docs for more details](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
+
 ## `godot.package`
 
 Describes packages to be installed. This _should_ be modified
@@ -57,5 +65,5 @@ my_package = "1.0.0"
 
 ## Clients
 
-- ### [client](https://github.com/godot-package-manager/client#installation): Rust client
+- ### [cli](https://github.com/godot-package-manager/cli#installation): Rust CLI
 - ### [godot-plugin](https://github.com/godot-package-manager/godot-plugin#installation): Godot plugin for downloading packages in the editor (does not support yaml and toml, only pure json)
