@@ -31,13 +31,8 @@ This file can be in different markup languages:
 
 <!-- this says jsonc because highlight.js doesnt have hjson. -->
 ```jsonc
-{
-  // comments are supported
-  // quotes arent needed for keys
-  packages: {
-    // or for strings
-    my_package: 1.0.0, // trailing commas are also fine
-  }
+packages: {
+  my_package: 1.0.0
 }
 ```
 
