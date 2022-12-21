@@ -1,6 +1,6 @@
-<p align='center'><img height='150' src='https://raw.githubusercontent.com/godot-package-manager/.github/main/icon.svg' alt='The GPM Icon'></p>
-<h1><p align="center"> The godot package manager </p></h1>
-<p align='center'><a href='https://discord.gg/6mcdWWBkrr' title='Chat on Discord' target='https://discord.gg/6mcdWWBkrr'><img src='https://img.shields.io/discord/853476898071117865?label=chat&logo=discord&style=for-the-badge&logoColor=white' alt='Chat on Discord'></a><p>
+# The Godot Package Manager
+
+[![discord](https://img.shields.io/discord/853476898071117865?label=chat&logo=discord&style=for-the-badge&logoColor=white)](https://discord.gg/6mcdWWBkrr "Chat on Discord")
 
 [NPM](https://www.npmjs.com/) allows for arbitrary packages to be uploaded, so why not upload Godot addons there to be automatically managed?
 
